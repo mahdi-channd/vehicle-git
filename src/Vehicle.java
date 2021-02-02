@@ -8,6 +8,13 @@ public class Vehicle implements Serializable {
     private int m=0;
     private String mahdi="mahdi";
 
+    public void returnFavor(){
+
+        System.out.println("I wil return your favor!");
+
+
+    }
+
 
 
 
