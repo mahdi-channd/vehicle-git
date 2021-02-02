@@ -6,7 +6,7 @@ public class Vehicle implements Serializable {
     private String type;
     private int number;
     private int m=0;
-    private String mahdi="mahdi";
+    private String mahdi;
 
     public void returnFavor(){
 
