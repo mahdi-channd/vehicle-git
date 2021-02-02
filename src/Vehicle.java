@@ -5,8 +5,9 @@ public class Vehicle implements Serializable {
 
     private String type;
     private int number;
-    private int m;
-    private String mahdi;
+    private int m=0;
+    private String mahdi="mahdi";
+
 
 
 
