@@ -22,6 +22,12 @@ public void meToo(){
 
 }
 
+public void gitTest(){
+
+    System.out.println("ive just created a githut repo!!!super!!");
+
+}
+
     public Vehicle(String type, int number){
 
         this.type = type;
