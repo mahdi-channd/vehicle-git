@@ -16,7 +16,11 @@ public class Vehicle implements Serializable {
     }
 
 
+public void meToo(){
 
+    System.out.println("I will return too!!");
+
+}
 
     public Vehicle(String type, int number){
 
